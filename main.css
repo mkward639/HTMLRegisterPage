@@ -1,0 +1,39 @@
+.title{
+    text-align: center;
+    border: 5px solid red
+}
+
+
+.container{
+    border: 20px dotted blue;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-left: 100px;
+    height: 600px;
+    width: 600px;
+    
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    border: 5px solid red
+}
+
+body{
+    background-color: yellow;
+}
+.img-superman{
+    height: 600px;
+    width: 450px;
+}
+
+#super-p{
+    color: green;
+}
